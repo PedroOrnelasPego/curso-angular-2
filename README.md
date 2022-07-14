@@ -1,6 +1,6 @@
 # CursoAngular2
 
-Continuação Aula #26 - Switch
+Continuação Aula #26 - Switch - ngIf - ngFor
 
 ## Development server
 
